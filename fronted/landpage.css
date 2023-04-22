@@ -169,9 +169,8 @@ body {
 
         }
         .cell2{
-            margin-right: 15px;
+           padding: 0px 10px;
             width: 430px;
-            
         }
         .cell2 img{
             display: block;
